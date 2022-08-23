@@ -33,7 +33,6 @@ public class MainViewController implements Initializable {
 		System.out.println("onMenuItemAboutAction");
 	}
 	
-	
 	@Override
 	public void initialize(URL arg0, ResourceBundle arg1) {
 	}
